@@ -1,1 +1,1 @@
-"# tdc_fuzzylogic_taller" 
+Python fuzzylogic alergias estacionales.
